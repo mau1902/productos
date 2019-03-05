@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "id": 0,
+      "nombre": "Pastel de Vainilla ",
+      "precio": "100"
+    },
+    {
+      "nombre": "Pastel de nuez",
+      "precio": "60",
+      "id": 3
+    },
+    {
+      "nombre": "Pastel de Zanahoria",
+      "precio": "45",
+      "id": 4
+    },
+    {
+      "nombre": "Pastel de Chocolate",
+      "precio": "60",
+      "id": 5
+    },
+    {
+      "nombre": "Pastel de Zarzamora",
+      "precio": "350",
+      "id": 6
+    },
+    {
+      "nombre": "Roles de Canela",
+      "precio": "60",
+      "id": 7
+    },
+    {
+      "nombre": "Roles glaseados",
+      "precio": "35",
+      "id": 8
+    }
+  ]
+}
